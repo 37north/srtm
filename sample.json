@@ -1,0 +1,19 @@
+{ "type": "FeatureCollection",
+  "features": [
+
+    { "type": "Feature",
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+LL
+	   ]
+
+       },
+       "properties": {
+         "prop0": "value0",
+         "prop1": {"this": "that"}
+         }
+       }
+    ]
+  }
+  
